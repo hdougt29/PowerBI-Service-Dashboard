@@ -1,2 +1,2 @@
-# PowerBI-Service-Dashboard
+# PowerBI Service Dashboard
 Service Requests financial dashboard
